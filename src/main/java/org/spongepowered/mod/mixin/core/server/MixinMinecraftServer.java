@@ -81,7 +81,6 @@ public abstract class MixinMinecraftServer implements Server, ConsoleSource, Sub
     @Shadow private boolean enableBonusChest;
     @Shadow private boolean worldIsBeingDeleted;
     @Shadow private int tickCounter;
-
     @Shadow public abstract boolean canStructuresSpawn();
     @Shadow public abstract boolean isHardcore();
     @Shadow public abstract boolean isServerRunning();
