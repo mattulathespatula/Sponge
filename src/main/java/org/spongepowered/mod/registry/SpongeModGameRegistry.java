@@ -41,9 +41,9 @@ import org.spongepowered.api.world.GeneratorType;
 import org.spongepowered.api.world.GeneratorTypes;
 import org.spongepowered.common.registry.RegistryHelper;
 import org.spongepowered.common.registry.SpongeGameRegistry;
-import org.spongepowered.mod.world.SpongeWorldTypeEnd;
-import org.spongepowered.mod.world.SpongeWorldTypeNether;
-import org.spongepowered.mod.world.SpongeWorldTypeOverworld;
+import org.spongepowered.common.world.type.SpongeWorldTypeEnd;
+import org.spongepowered.common.world.type.SpongeWorldTypeNether;
+import org.spongepowered.common.world.type.SpongeWorldTypeOverworld;
 
 import java.util.ArrayList;
 import java.util.List;

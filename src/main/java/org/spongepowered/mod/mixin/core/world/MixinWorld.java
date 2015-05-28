@@ -54,8 +54,8 @@ import org.spongepowered.common.world.gen.CustomWorldChunkManager;
 import org.spongepowered.common.world.gen.SpongeBiomeGenerator;
 import org.spongepowered.common.world.gen.SpongeWorldGenerator;
 import org.spongepowered.mod.SpongeMod;
-import org.spongepowered.mod.world.gen.CustomChunkProviderGenerate;
-import org.spongepowered.mod.world.gen.SpongeGeneratorPopulator;
+import org.spongepowered.common.world.gen.CustomChunkProviderGenerate;
+import org.spongepowered.common.world.gen.SpongeGeneratorPopulator;
 
 import java.io.File;
 
